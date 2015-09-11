@@ -1,0 +1,82 @@
+h1 {
+    font-family: 'Kreon' !important;
+    color: #003468;
+    font-size: 120px;
+    font-weight: 700;
+    margin: 10px 10px 0px 10px;
+    text-shadow: 2px 2px #ffffff;
+    
+}
+
+body {
+    background-color: #003468;
+}
+
+#header {
+    background-color: #DEDE80;
+    margin-right: auto;
+    margin-left: auto;
+    height: 250px;
+    width: 100%;
+
+}
+
+#footer {
+    background-color: #DEDE80;
+    height: 100px;
+    width: 100%;
+}
+
+#footer a {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fa {
+    color: #003468;
+    margin: 5px 10px 5px 10px;
+}
+
+h3 {
+    font-family: 'Quicksand';
+    font-size: 40px;
+    margin: 3px 10px 10px 170px;
+}
+
+img {
+    position: relative;
+    left: 800px;
+    bottom: 177px;
+}
+
+h3.schedule {
+    font-family: 'Quicksand';
+    font-size: 40px;
+    margin: 3px 10px 10px 10px;
+    color: #DEDE80;
+}
+
+table, th, td {
+   border: 2px solid white;
+}
+
+table {
+    margin: 20px;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+td {
+    height: 30px;
+    vertical-align: bottom;
+    padding: 3px;
+    color: #DEDE80;
+    font-family: 'Quicksand';
+    font-size: 19px;
+}
+
+.offthescreen {
+    position: absolute;
+    left: -1000000px;
+    top: -1111111px;
+}
